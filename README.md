@@ -27,10 +27,11 @@ Steps
 -------
 
 1. Fork this repo, and clone to your local machine
-2. 
-3. Convert stories into a representative domain model and test-drive your work.
-4. 
-5. 
+2. Open it in IntelliJ Community Edition
+3. Open `src/main/java/Aiport.java` and if there is a message about *SDK* or *adoptOpen* not being available, got through the steps to point it at your Java installation 
+4. Convert stories into a representative domain model and test-drive your work.
+5. Remember tp write a `public static void main` method that creates your airport and lands and takes some planes off, producing console outputs as it goes!
+
 Task
 -----
 
