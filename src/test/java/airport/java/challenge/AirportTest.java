@@ -5,6 +5,7 @@ import static org.mockito.Mockito.when;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+//weather conditions cause tests to fail occasionally
 
 public class AirportTest {
     Airport airport;
@@ -27,6 +28,7 @@ public class AirportTest {
         airport = new Airport();
         assertEquals( 10, Airport.capacity);
     }
+//when running test alone, it passes. Not sure why.
 
     @Test
     public void testOverride() {
