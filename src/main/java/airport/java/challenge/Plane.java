@@ -11,4 +11,14 @@ public class Plane {
 
         return name;
     }
+
+//    public String weatherCondition(){
+//        if (weather.isStormy(true)){
+//            return "Cannot do anything in this rain, try again later";
+//        } else{
+//         return "The sun is out, be free";
+//        }
+//    }
+//
 }
+
