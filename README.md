@@ -10,13 +10,11 @@ The tools I used in this project were very simple, and I personally found that i
 </div>
 
 
-This application was purely Java based 
+This application was primarily Java based (with Maven as a building tool) which was a challenge, in that Java was still pretty new to me at the time. This project was a nice introduction to the similarities in languages which was a great help to me in my learning experience. 
 
+---
 
-<div align="center">
-<img src="https://media1.giphy.com/media/M9tpu3TPG42n6/100.webp?cid=ecf05e47c5p8lc7h0xgxx70ebabzrjcbyaxj22fq11fkb5o7&rid=100.webp&ct=g" title="Airplane" alt="Airplane"
-height="300" width="600"/>
-</div>
+### The requirements for this project were given as follows ⏬
 
 Airport Challenge
 =================
@@ -98,3 +96,12 @@ Planes that have landed must be at an airport
 Your task is to test drive the creation of a set of classes/objects to satisfy all the above user stories. You will need to use a random number generator to set the weather (it is normally sunny but on rare occasions it may be stormy). In your tests, you'll need to stub random behaviour to ensure consistent test behaviour.
 
 Your code should defend against [edge cases](http://programmers.stackexchange.com/questions/125587/what-are-the-difference-between-an-edge-case-a-corner-case-a-base-case-and-a-b) such as inconsistent states of the system ensuring that planes can only take off from airports they are in; planes that are already flying cannot take off and/or be in an airport; planes that are landed cannot land again and must be in an airport, etc.
+
+
+As you can see, things could get a bit stormy at times
+
+
+<div align="center">
+<img src="https://media1.giphy.com/media/M9tpu3TPG42n6/100.webp?cid=ecf05e47c5p8lc7h0xgxx70ebabzrjcbyaxj22fq11fkb5o7&rid=100.webp&ct=g" title="Airplane" alt="Airplane"
+height="300" width="600"/>
+</div>
