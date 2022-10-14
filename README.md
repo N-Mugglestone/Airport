@@ -1,3 +1,23 @@
+# Welcome to the Airport Challenge
+
+This project was part of my DF Academy journey, and it's purpose was to help me gain a better understanding of conditional statements and how to make these kinds of statements run together. 
+
+The tools I used in this project were very simple, and I personally found that in this situation a flow diagram worked the best with very easy to understand Yes and No conditions as well as the suitable responses to each varible. 
+
+<div align="center">
+<img src="https://media2.giphy.com/media/TFUGLiAZFJzZGaLh4J/200w.webp?cid=ecf05e47yop42uh7c7yjw9w32jlyjdbeft5mjv6ujoslag08&rid=200w.webp&ct=s" title="YesOrNo" alt="YesOrNo" height="150" width="300"
+/>
+</div>
+
+
+This application was purely Java based 
+
+
+<div align="center">
+<img src="https://media1.giphy.com/media/M9tpu3TPG42n6/100.webp?cid=ecf05e47c5p8lc7h0xgxx70ebabzrjcbyaxj22fq11fkb5o7&rid=100.webp&ct=g" title="Airplane" alt="Airplane"
+height="300" width="600"/>
+</div>
+
 Airport Challenge
 =================
 
